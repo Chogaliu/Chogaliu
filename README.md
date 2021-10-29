@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Chogaliu
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning and using PyTorch
-- 💞️ I’m looking to collaborate on trajectory prediction
 - 📫 How to reach me ---- Email
 
 <!---
