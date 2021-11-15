@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Chogaliu
+- 🐱 Transportation engineering
+- 🐈 deep learning / behavior modeling
 - 📫 How to reach me ---- Email
 
 <!---
