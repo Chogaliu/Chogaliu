@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chogaliu
-- 🐱 Transportation engineering
-- 🍠 deep learning / behavior modeling / spatial-temporal data prediction...
-- 📫 How to reach me ---- Email
+- 🔥 Transportation engineering
+- 🐱 deep learning / behavior modeling / spatial-temporal data prediction...
+- 🐶 How to reach me ---- Email
 
 <!---
 Chogaliu/Chogaliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
