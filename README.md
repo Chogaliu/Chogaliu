@@ -1,6 +1,6 @@
 - 🐱 Hi, I’m @Chogaliu
 - 🐱 Transportation engineering
-- 🐱 spatial-temporal data analysis / deep learning / behavior modeling / 
+- 🐱 spatial-temporal data analysis / deep learning / Uncertainty Quantification
 - 🐱 Email (chogaliu22@outlook.com)
 
 <!---
