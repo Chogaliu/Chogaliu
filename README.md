@@ -2,6 +2,7 @@
 - 🐱 Transportation engineering
 - 🐱 Spatial-temporal data analysis / Deep learning / Uncertainty Quantification
 - 🐱 Email (chogaliu22@outlook.com)
+- 🐱 Allergic to cat hair
 
 <!---
 Chogaliu/Chogaliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
